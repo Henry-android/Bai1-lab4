@@ -1,0 +1,15 @@
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\BaiTH4.exe.config
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\BaiTH4.exe
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\BaiTH4.pdb
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.csproj.AssemblyReference.cache
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.frmSV.resources
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.Properties.Resources.resources
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.csproj.GenerateResource.cache
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.csproj.CoreCompileInputs.cache
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.exe
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.pdb
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\EntityFramework.dll
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\EntityFramework.SqlServer.dll
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\EntityFramework.xml
+D:\code C#\BaiTH4\BaiTH4\bin\Debug\EntityFramework.SqlServer.xml
+D:\code C#\BaiTH4\BaiTH4\obj\Debug\BaiTH4.csproj.Up2Date
